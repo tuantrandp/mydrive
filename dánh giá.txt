@@ -1,0 +1,49 @@
+project      Auto-backup
+
+nội dung 
+	- Descriotion: Automatically backs up data from the original server to a backup server
+	-action:Every 2 hours automatically read the files to be backed up on the original server and compare them with the files on the backup server via sftp
+		If the files are different, copy the data from the source server to the backup server and sent warning  email 		
+		Limit daily backup capacity to not exceed 500mb
+
+project     Kitting- print lable
+
+nội dung 
+	- Descriotion: create sn strip and online strip via commands
+	-action:prints labels containing alphanumeric characters in the sn range
+		print test sn end of range via command
+		create bands through skuno for product codes that do not have orders		
+		print sn strip without command and print offset normally
+
+
+project   SFC WEB
+
+nội dung 
+	- Descriotion: Repair functions on SFC WEB
+	-action: Fix online function of sn range
+		
+		
+project    user support
+
+nội dung 
+	- Descriotion: Support users on the production line 
+	-action: debug sql finds the cause with programs using VB6 language
+		edit the program
+		Edit SQL procedure
+		Add, edit and delete database data upon request
+		Get data for users
+
+project    Learn the production process 
+
+nội dung 
+	- Descriotion: Learn the production process SFC and ALLPART
+	-action: Learn about stations and how they operate to conveniently support users
+		learn about how programs work for corrections and improvements
+		understand clearly to develop new programs
+
+		
+
+
+
+
+
